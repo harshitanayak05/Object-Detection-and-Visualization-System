@@ -43,6 +43,12 @@ The measured angle and distance values are transmitted from Arduino to Java thro
 - AI-based object recognition
 - Wireless communication
 - Long-range object detection
+
+## Hardware Setup
+![Hardware Setup](hardware_setup.jpg)
+
+## Radar Visualization
+![Radar Visualization](visualization.png)
 - 3D visualization
 - Improved detection accuracy
 
