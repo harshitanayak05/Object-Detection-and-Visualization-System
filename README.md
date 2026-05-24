@@ -45,7 +45,9 @@ The measured angle and distance values are transmitted from Arduino to Java thro
 - Long-range object detection
 
 ## Hardware Setup
-![Hardware Setup](hardware_setup.jpg)
+<p align="center">
+  <img src="hardware_setup.jpg" width="450">
+</p>
 
 ## Radar Visualization
 ![Radar Visualization](visualization.png)
